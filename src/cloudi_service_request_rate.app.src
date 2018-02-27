@@ -3,7 +3,7 @@
 
 {application, cloudi_service_request_rate, 
   [{description, "Request Rate Testing CloudI Service"},
-   {vsn, "1.7.2"},
+   {vsn, "1.7.3"},
    {modules, [
         cloudi_service_request_rate
         ]},
